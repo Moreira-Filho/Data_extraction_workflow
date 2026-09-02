@@ -8,6 +8,12 @@ developed for the publication **Automating Data Extraction from Scientific
 Literature and General PDF Files Using Large Language Models and KNIME: An
 Application in Toxicology**.
 
+## Graphical Abstract
+
+[![Graphical abstract for Automating Data Extraction from Scientific Literature and General PDF Files Using Large Language Models and KNIME: An Application in Toxicology](assets/graphical_abstract.jpg)](https://doi.org/10.1002/wcms.70047)
+
+Graphical abstract from the associated [publication](https://doi.org/10.1002/wcms.70047).
+
 ## Latest Release
 
 The current release is **[version 1.2.0](https://github.com/Moreira-Filho/Data_extraction_workflow/releases/tag/v1.2.0)**.
