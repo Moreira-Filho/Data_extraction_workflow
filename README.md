@@ -1,5 +1,7 @@
 # MoVIZ Data Extraction Workflow
 
+[![DOI](https://img.shields.io/badge/DOI-10.1002%2Fwcms.70047-blue)](https://doi.org/10.1002/wcms.70047)
+
 MoVIZ is a KNIME workflow for extracting structured information from scientific
 literature and general PDF files with large language models (LLMs). It was
 developed for the publication **Automating Data Extraction from Scientific
