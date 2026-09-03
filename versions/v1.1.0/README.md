@@ -1,8 +1,8 @@
-# MoVIZ Data Extraction Workflow v1.2.0
+# MoVIZ Data Extraction Workflow v1.1.0
 
 This guide explains how to install the MoVIZ - Data Extraction KNIME extension
-and import the version 1.2.0 workflow. A
-[printable PDF version](Installation-Guide-v1.2.0.pdf) is also available.
+and import the version 1.1.0 workflow. A
+[printable PDF version](Installation-Guide-v1.1.0.pdf) is also available.
 
 ## What's New
 
@@ -14,8 +14,8 @@ and import the version 1.2.0 workflow. A
 ## Requirements and Downloads
 
 - [KNIME Analytics Platform](https://www.knime.com/downloads/) 5.12.0 or newer
-- [Data Extraction Workflow v1.2.0 (`.knar`)](https://github.com/Moreira-Filho/Data_extraction_workflow/releases/download/v1.2.0/Data-Extraction-Workflow-v1.2.0.knar)
-- [MoVIZ - Data Extraction Extension v1.2.0 (`.zip`)](https://github.com/Moreira-Filho/Data_extraction_workflow/raw/v1.2.0/release_1_2/MoVIZ-data_extraction_extension.zip)
+- [Data Extraction Workflow v1.1.0 (`.knar`)](https://github.com/Moreira-Filho/Data_extraction_workflow/releases/download/v1.1.0/Data-Extraction-Workflow-v1.1.0.knar)
+- [MoVIZ - Data Extraction Extension v1.1.0 (`.zip`)](https://github.com/Moreira-Filho/Data_extraction_workflow/raw/v1.1.0/versions/v1.1.0/MoVIZ-Data-Extraction-Extension-v1.1.0.zip)
 - [GROBID](https://grobid.readthedocs.io/en/latest/Install-Grobid/) for the scientific-literature mode only
 
 The extension archive is approximately 2.86 GB and is stored using Git LFS. Use
@@ -28,7 +28,7 @@ supported on Windows. Windows users can skip GROBID and use the remaining modes.
 ## Install the KNIME Extension
 
 1. Download the
-   [MoVIZ - Data Extraction extension](https://github.com/Moreira-Filho/Data_extraction_workflow/raw/v1.2.0/release_1_2/MoVIZ-data_extraction_extension.zip).
+   [MoVIZ - Data Extraction extension](https://github.com/Moreira-Filho/Data_extraction_workflow/raw/v1.1.0/versions/v1.1.0/MoVIZ-Data-Extraction-Extension-v1.1.0.zip).
 2. Extract the downloaded archive to a local folder.
 3. Locate the extracted folder containing both `content.jar` and
    `artifacts.jar`. If these files are inside an additional subfolder, use that
@@ -96,10 +96,10 @@ for Windows-related limitations.
 ## Import and Run the Workflow
 
 1. Download the
-   [Data Extraction Workflow v1.2.0](https://github.com/Moreira-Filho/Data_extraction_workflow/releases/download/v1.2.0/Data-Extraction-Workflow-v1.2.0.knar).
+   [Data Extraction Workflow v1.1.0](https://github.com/Moreira-Filho/Data_extraction_workflow/releases/download/v1.1.0/Data-Extraction-Workflow-v1.1.0.knar).
 2. In KNIME Analytics Platform, select your **Local Space**.
 3. Select **Import Workflow**.
-4. Browse to `Data-Extraction-Workflow-v1.2.0.knar` and import it.
+4. Browse to `Data-Extraction-Workflow-v1.1.0.knar` and import it.
 5. Open the imported workflow.
 6. If you are using the scientific-literature mode, start the local GROBID
    server before executing the workflow.
